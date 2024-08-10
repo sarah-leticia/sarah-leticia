@@ -7,7 +7,7 @@
 - 💬 Pergunte-me sobre tecnologia.
 - ⚡ Gosto de estudar e aprender sobre tecnologia, ciência e inglês.
 
-
+##
   <div>
     <a href="https://github.com/sarah-leticia">
     <img height="188cm" src="https://github-readme-stats.vercel.app/api?username=sarah-leticia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
