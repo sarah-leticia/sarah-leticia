@@ -3,7 +3,7 @@
  <!-- <P align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-leticia&color=green" aly="Profile views" /> </P> -->
 
 - 🔭 Hoje trabalho com back-end
-- 👩‍💻 Estudando SQL, banco de dados, modelagem de dados, Java e spring boot.
+- 👩‍💻 Estudando SQL, modelagem de dados, Java e spring boot.
 - 💬 Pergunte-me sobre tecnologia.
 - ⚡ Gosto de estudar e aprender sobre tecnologia, ciência e inglês.
 
